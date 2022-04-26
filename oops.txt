@@ -4,3 +4,28 @@ type, model, horsepower and performs certain action like drive.
 The characteristics of an Object are called as Property, in Object-Oriented Programming and 
 the actions are called methods. An Object is an instance of a class. Objects are everywhere in JavaScript
 almost every element is an Object whether it is a function, array, and string. 
+
+pillar of oops
+1,Data Apstraction (hide the details show essentials),
+An abstraction is a way of hiding the implementation 
+details and showing only the functionality to the users
+
+2,inheritance.(Reusable),
+ -> inheritance is a relationship between two more classes
+    where derived class inherites property pre-existing(base) classes
+
+3,Polymorphism (object ot Take many forms)
+->The ablity to create a variable, a function, or an object that has more than one form
+
+4,Encapsulation (Data hiding)
+  -> The encapsulaction is security and controlled access
+  -> Hide implementation and expose Behaviour
+  -> modify the implemetaction any time
+
+ 1, what is constractor?
+   
+   -> A constructor is a special method of a class or structure in object-oriented programming that initializes a newly created object of that type. 
+      Whenever an object is created, the constructor is called automatically.
+ 
+ 2,what super?
+   -> super keyword to for calling above class constructor
